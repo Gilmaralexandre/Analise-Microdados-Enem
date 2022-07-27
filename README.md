@@ -7,7 +7,6 @@ __Neste caderno jupyter faço algumas análises sobre o enem 2021__
 - Criar um projeto real de Análise de Dados.
 - Executar todos os processos de Análise de Dados, como:
   * Compreensão do contexto do projeto.
-  * Levantamento dos Objetivos da análise.
   * Planejamento e coleta dos dados e informações necessárias.
   * Análise e Tratamento dos dados
   * Extração de informações relevantes.
